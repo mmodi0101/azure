@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'modiwebsite'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_90AE368DE5BE402095C03376D19A8A27 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7B08033B07848DB927E679698D26489 }}
           package: .
