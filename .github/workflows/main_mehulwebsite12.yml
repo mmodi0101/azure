@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Mehulwebsite12'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_839DF8D98BB141B5A5335CB48E3922DB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2DF96ED53C8946ABB2FDCDDA011CE203 }}
           package: '*.jar'
